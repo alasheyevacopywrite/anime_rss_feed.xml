@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<rss version="2.0">
+  <channel>
+    <title>Аниме Новости</title>
+    <link>https://example.com</link>
+    <description>Сборник новостей об аниме</description>
+    <language>ru-ru</language>
+    <item>   
+      <title>Anilibria</title>
+      <link>https://www.anilibria.tv/</link>
+      <description>Аниме и релизы с русской озвучкой</description>
+    </item>
+    <item>
+      <title>Animevost</title>
+      <link>https://animevost.org/</link>
+      <description>Сериалы и фильмы аниме с субтитрами</description>
+    </item>
+    <item>
+      <title>Shikimori</title>
+      <link>https://shikimori.one/</link>
+      <description>База данных аниме и манги</description>
+    </item>
+    <item>
+      <title>Anidub</title>
+      <link>https://online.anidub.com/</link>
+      <description>Аниме онлайн в русской озвучке</description>
+    </item>
+    <item>
+      <title>AnimeGo</title>
+      <link>https://animego.org/</link>
+      <description>Аниме онлайн с переводами</description>
+    </item>
+    <item>
+      <title>Reanimedia</title>
+      <link>https://reanimedia.ru/</link>
+      <description>Официальные релизы аниме</description>
+    </item>
+    <item>
+      <title>XLM</title>
+      <link>https://xlm.ru/</link>
+      <description>Новости и информация об аниме</description>
+    </item>
+    <item>
+      <title>KG-Портал</title>
+      <link>https://kg-portal.ru/news/anime/</link>
+      <description>Обзоры и новости аниме</description>
+    </item>
+    <item>
+      <title>Anime Daily Blog</title>
+      <link>https://animedailyblog.wordpress.com/</link>
+      <description>Блог с ежедневными аниме новостями</description>
+    </item>
+    <item>
+      <title>Threads Anime News</title>
+      <link>https://www.threads.net/@animenewsexpress</link>
+      <description>Новости аниме в Threads</description>
+    </item>
+    <item>
+      <title>SCMP Anime</title>
+      <link>https://www.scmp.com/topics/anime</link>
+      <description>Глобальные новости аниме</description>
+    </item>
+    <item>
+      <title>Anime Corner</title>
+      <link>https://animecorner.me/</link>
+      <description>Новости и тренды аниме</description>
+    </item>
+    <item>
+      <title>Anime News Network RSS</title>
+      <link>https://www.animenewsnetwork.com/all/rss.xml</link>
+      <description>Последние новости от Anime News Network</description>
+    </item>
+    <item>
+      <title>Подкаст RSS</title>
+      <link>https://www.omnycontent.com/d/playlist/67122501-9b17-4d77-84bd-a93d00dc791e/de821961-6693-463d-8209-b1fe0099d8b6/c0115797-1255-4087-8413-b1fe009a4fb3/podcast.rss</link>
+      <description>Подкасты о новостях аниме</description>
+    </item>
+  </channel>
+</rss>
